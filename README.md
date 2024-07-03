@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/matias-achucarro-a94235233/">Matias Achucarro</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/matias-achucarro-a94235233/" target='_blank'>Matias Achucarro</a> 👋</h1>
 </div>
 <img src="https://github.com/MatiasAchucarro/MatiasAchucarro/assets/174651465/00ddef8b-1106-4946-9725-e4ae9c14eb7c">
 <!--
