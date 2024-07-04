@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\WebApiCine.csproj": {}
+    "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\WebApiCine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\WebApiCine.csproj": {
+    "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\WebApiCine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\WebApiCine.csproj",
+        "projectUniqueName": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\WebApiCine.csproj",
         "projectName": "WebApiCine",
-        "projectPath": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\WebApiCine.csproj",
+        "projectPath": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\WebApiCine.csproj",
         "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\obj\\",
+        "outputPath": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config",

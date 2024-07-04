@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\",
+  "WorkspaceRootPath": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\dto\\peliculainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\dto\\peliculainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\dto\\peliculainput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\dto\\imageninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\dto\\imageninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\dto\\imageninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\controllers\\molds\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\controllers\\molds\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\controllers\\molds\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\controllers\\molds\\keyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\controllers\\molds\\keyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\controllers\\molds\\keyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\controllers\\molds\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\controllers\\molds\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\controllers\\molds\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|c:\\users\\matia\\onedrive\\escritorio\\programacion\\be\\webapicine\\webapicine\\context\\peliculascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|d:\\repositorios\\matiasachucarro\\cinemati\\webapicine\\webapicine\\context\\peliculascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A651AE-0B40-4936-90F8-8FFBDAE4DB65}|WebApiCine\\WebApiCine.csproj|solutionrelative:webapicine\\context\\peliculascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PeliculasController.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\PeliculasController.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\PeliculasController.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Controllers\\PeliculasController.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\PeliculasController.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\PeliculasController.cs",
               "RelativeToolTip": "WebApiCine\\Controllers\\PeliculasController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAIwBYAAAAfAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwBYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T17:38:09.892Z",
               "EditorCaption": ""
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ImagenInput.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Dto\\ImagenInput.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Dto\\ImagenInput.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Dto\\ImagenInput.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Dto\\ImagenInput.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Dto\\ImagenInput.cs",
               "RelativeToolTip": "WebApiCine\\Dto\\ImagenInput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PeliculaInput.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Dto\\PeliculaInput.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Dto\\PeliculaInput.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Dto\\PeliculaInput.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Dto\\PeliculaInput.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Dto\\PeliculaInput.cs",
               "RelativeToolTip": "WebApiCine\\Dto\\PeliculaInput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PeliculasContext.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Context\\PeliculasContext.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Context\\PeliculasContext.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Context\\PeliculasContext.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Context\\PeliculasContext.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Context\\PeliculasContext.cs",
               "RelativeToolTip": "WebApiCine\\Context\\PeliculasContext.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAmwBIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Pelicula.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Pelicula.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Controllers\\Molds\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Pelicula.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Pelicula.cs",
               "RelativeToolTip": "WebApiCine\\Controllers\\Molds\\Pelicula.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Imagen.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Imagen.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Imagen.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Controllers\\Molds\\Imagen.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Imagen.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\Molds\\Imagen.cs",
               "RelativeToolTip": "WebApiCine\\Controllers\\Molds\\Imagen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "keyAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\Molds\\keyAttribute.cs",
+              "DocumentMoniker": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\Molds\\keyAttribute.cs",
               "RelativeDocumentMoniker": "WebApiCine\\Controllers\\Molds\\keyAttribute.cs",
-              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Programacion\\BE\\WebApiCine\\WebApiCine\\Controllers\\Molds\\keyAttribute.cs",
+              "ToolTip": "D:\\Repositorios\\MatiasAchucarro\\CineMati\\WebApiCine\\WebApiCine\\Controllers\\Molds\\keyAttribute.cs",
               "RelativeToolTip": "WebApiCine\\Controllers\\Molds\\keyAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
