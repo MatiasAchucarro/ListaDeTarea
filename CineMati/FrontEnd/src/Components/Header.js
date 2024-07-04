@@ -8,7 +8,7 @@ export const Header = () => {
       <Logo className="logo" />
 
 
-      <h1 className="movie-title"  >  Las Mejores Peliculas </h1>
+      <h1 className="movie-title"> CineMati </h1>
 
 
     </header>
