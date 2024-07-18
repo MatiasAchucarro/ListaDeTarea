@@ -38,7 +38,7 @@ function App() {
   }
 
   const results = !search ? posts : posts.filter((pelicula) => pelicula.titles.toLowerCase().includes(search.toLocaleLowerCase()))
-console.log(results)
+  console.log(results)
   useEffect(() => {
     fetchGet()
 
@@ -115,10 +115,11 @@ console.log(results)
 
   //DELETE
   const deletePost = (id) => {
-
-    fetch(`https://localhost:44310/api/Peliculas/${id}`, {
-      method: 'DELETE'
-    })
+    const userConfirmed = window.confirm("¿Estás seguro de que deseas borrar esto?");
+    if (userConfirmed) {
+      fetch(`https://localhost:44310/api/Peliculas/${id}`, {
+        method: 'DELETE'
+      })
 
       .then((response) => {
         if (response.status === 200) {
@@ -126,10 +127,18 @@ console.log(results)
             posts.filter((Peliculas) => {
               return Peliculas.id !== id;
             })
-          )
+          );
+          console.log("Elemento borrado");
         }
       })
+      .catch(error => {
+        console.error("Error al borrar el elemento:", error);
+      });
+  } else {
+    console.log("Cancelado por el usuario");
   }
+};
+
   const onEditMovie = (pelicula) => {
     setOpenModalE(true);
     setMovieEdit(pelicula);

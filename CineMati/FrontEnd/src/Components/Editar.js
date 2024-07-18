@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useState } from 'react';
 import { Button, Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -84,8 +84,11 @@ export default function EditPut({ closeModal, editPut, movieEdit }) {
 
         <div >
             <Modal isOpen >
-                <ModalHeader style={{ display: 'block' }}> Editar Pelicula
-                    <span style={{ float: 'right' }} onClick={() => closeModal(false)}>x</span>
+                <ModalHeader style={{ display: 'block' }}>
+                    <Button className='btn btn-danger' style={{ float: 'right' }} onClick={() => closeModal(false)}>x</Button>
+                    <br />
+                    <h1>Editar Pelicula</h1>
+
                 </ModalHeader>
                 <ModalBody>
 

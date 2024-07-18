@@ -72,8 +72,10 @@ export default function AddPost({ closeModal, addPost }) {
     return (
         <div >
             <Modal isOpen >
-                <ModalHeader style={{ display: 'block' }}> Añadir Pelicula
-                    <span style={{ float: 'right' }} onClick={() => closeModal(false)}>x</span>
+                <ModalHeader style={{ display: 'block' }}>
+                    <Button className='btn btn-danger' style={{ float: 'right' }} onClick={() => closeModal(false)}>x</Button>
+                    <br />
+                    <h1> Añadir Pelicula</h1>
                 </ModalHeader>
                 <ModalBody>
                     <form className='entradas' onSubmit={handleSubmit}>

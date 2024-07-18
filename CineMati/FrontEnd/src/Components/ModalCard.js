@@ -17,15 +17,22 @@ export const ModalCard = ({ isOpen, toggle, pelicula }) => {
 
     return (
         <Modal isOpen={isOpen} toggle={toggle}>
-            <ModalHeader toggle={toggle}> <h1>{pelicula.titles}</h1></ModalHeader>
+            <ModalHeader style={{ display: 'block' }}>
+
+                <Button className='btn btn-danger' style={{ float: 'right' }} onClick={toggle}>x</Button>
+                <br />
+                <h1 className='TitleH'>{pelicula.titles}</h1>
+
+            </ModalHeader>
             <ModalBody>
-                <div className="card-header">
-                    <img src={urlImagenSrcM} className="card-img-top" style={{ width: "100%", height: "100%"  }} />
+                <div className="card-body">
+                    <img src={urlImagenSrcM} className="card-img-top" style={{ height: '250px', width: '300px' }} />
                 </div>
+                <br />
                 <p>{pelicula.description}</p>
             </ModalBody>
             <ModalFooter>
-                <Button color="secondary" onClick={toggle}>Cerrar</Button>
+                <Button className='btn btn-danger' onClick={toggle}>Cerrar</Button>
             </ModalFooter>
         </Modal>
     );

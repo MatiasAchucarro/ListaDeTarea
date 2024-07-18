@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiCine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+688f03aeb5fb34188ae6615ba51d485b33d9b5bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d2236c21365fcf20412694d2ff0a6b45d373530")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiCine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiCine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

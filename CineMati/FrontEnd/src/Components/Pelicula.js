@@ -6,7 +6,7 @@ import { useEffect, useRef } from "react";
 
 
 
-export default function Pelicula(pelicula, results) {
+export default function Pelicula(pelicula) {
 
   const popupRef = useRef(null);
   const inputRef = useRef(null);
@@ -32,10 +32,20 @@ export default function Pelicula(pelicula, results) {
 
   }
   const urlImagenSrc = convertirDatosaImagen(pelicula)
+
+  const handleShowDetail = () => {
+    pelicula.onShowDetail();
+    inputRef.current.checked = false;
+
+  };
+  const handleEditMovie = () => {
+    pelicula.onEditMovie();
+    inputRef.current.checked = false;
+  };
   return (
 
     <div className='card' style={{ width: "18rem;" }}>
-      <img src={urlImagenSrc} className="card-img-top" style={{ width: "199px", height: "200px"  }}></img> 
+      <img src={urlImagenSrc} className="card-img-top" style={{ width: "199px", height: "200px" }}></img>
       <div className="card-body">
 
         <h4 className="card-title"> {pelicula.titles}</h4>
@@ -56,12 +66,12 @@ export default function Pelicula(pelicula, results) {
             <ul>
 
               <li>
-                <button onClick={pelicula.onShowDetail}> <FontAwesomeIcon icon={faAdd} />Ver Mas</button>
+                <button onClick={handleShowDetail}> <FontAwesomeIcon icon={faAdd} />Ver Mas</button>
               </li>
 
               <li>
                 <button
-                  onClick={pelicula.onEditMovie}
+                  onClick={handleEditMovie}
                 ><FontAwesomeIcon
                     icon={faEdit} />Editar
                 </button>
